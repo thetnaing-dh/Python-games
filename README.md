@@ -6,8 +6,8 @@
 * if else statement
 * while loop
 * import random module
-* try error excepiton
-* dicionary
+* try error exception
+* dictionary
 * def function (argument)
 * creating virtual environment
 * How to pip install qrcode module
