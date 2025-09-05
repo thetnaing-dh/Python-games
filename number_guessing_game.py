@@ -24,8 +24,3 @@ while True:
         #If not a valid number
         #   Print an error
         print('Please enter a valid number')
-
-
-  
-    
-   
