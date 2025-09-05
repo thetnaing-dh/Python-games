@@ -55,6 +55,8 @@ def play_game():
             #If not
             #   Terminate
             if should_continue == 'n':
+            #   Print thank you message
+                print('Thank you for playing!')
                 break
 
 play_game()
